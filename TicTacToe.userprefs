@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PartidasControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GridSpace.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PartidasControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AniimeX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Temporizador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LojaScript\ShopPartidas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LojaScript\CompraPartidas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdsUnity.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneAtual.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
